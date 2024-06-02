@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body{
+	background:linear-gradient(to bottom, #ffdf80 0%, #cc6600 100%);
+	display: box;
+	margin: 100px;
+	margin-top: 250px;
+	margin-bottom: 370px;
+	padding-left: 250px;
+	background-repeat: no-repeat;
+
+}
+
+.info{
+	
+}
+
+.table{
+	padding-left:500px ;
+	width:600px ;
+	padding-right: 30px;
+	background-color:#ffffb3;
+	margin:0;
+}

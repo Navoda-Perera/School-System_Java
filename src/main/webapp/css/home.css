@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.body{
+	background-color: rgb(222, 184, 135);
+}
+
+.menubar
+{
+	list-style-type: none;
+	text-align: center;
+	background-color: #5A5A5A;
+	padding: 10px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.menubar li
+{
+
+	display: inline-block;
+}
+
+.menubar li a
+{
+	text-decoration: none;
+	padding-right: 30px;
+	font-size: 15;
+	color: whitesmoke;
+}

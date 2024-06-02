@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body{
+	background:linear-gradient(to bottom, #ffdf80 0%, #cc6600 100%);
+	display: box;
+	margin: 100px;
+	margin-top: 250px;
+	margin-bottom: 370px;
+	padding-left: 250px;
+	background-repeat: no-repeat;
+
+}
+
+.menubar
+{
+	list-style-type: none;
+	text-align: center;
+	background-color: #5A5A5A;
+	padding: 10px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.menubar li
+{
+
+	display: inline-block;
+}
+
+.menubar li a
+{
+	text-decoration: none;
+	padding-right: 30px;
+	font-size: 15;
+	color: whitesmoke;
+}
+
+.Sreg{
+	float: left;
+	margin-left: 400px;
+}
+
+.Treg{
+	float: right;
+	margin-right: 400px;
+}
